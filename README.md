@@ -26,7 +26,8 @@ Head over to music.youtube.com on your computer and make sure you are signed int
 - If large numbers of songs are in the playlist expect to wait 10 seconds multiplied by the total of the songs in the playlist. This means hundreds or thousands of songs are going to take hours.
 - There is also a cap on the number of songs that can be displayed (~1000) in the window in music.youtube.com, so be prepared to repeat the process after doing lots of scrolling and then running the script and refreshing the window and scrolling and trying again if your playlist is longer than 1000 songs.
 
-### Changes I've Made:
+### Changes I've Made From Original Gist:
+0. Added detailed instructions on how to move playlists.
 1. likeNext Function: This function is responsible for processing each song one by one.
 2. Conditionally Engage Wait: If a song is already liked (aria-pressed="true"), it skips the wait period and moves to the next song immediately.
 3. Wait Only for Unliked Songs: The wait period is only applied when a song is actually liked.
