@@ -1,4 +1,4 @@
-#YouTube Music Likes Transferer
+# YouTube Music Likes Transferer
 
 This script likes all the songs in a Youtube Music Playlist at once, this allows the use to move likes from one Google account to another. This is especially helpful if you would like to delete an account or migrate to another personal non workspace account. This way YouTube Music still knows what kind of music you like. Adding a playlist with those tracks doesn't tell the algorithm nearly as much.
 
