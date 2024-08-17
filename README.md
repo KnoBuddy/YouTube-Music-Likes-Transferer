@@ -45,7 +45,7 @@ Head over to music.youtube.com on your computer and make sure you are signed int
 
 
 
-Star :star: this gist if it was useful. Follows to my GitHub Profile are appreciated.
+⭐ If you found this repository helpful, please consider giving it a star. I also appreciate follows on my GitHub profile!
 
 [![Follow Badge](https://img.shields.io/badge/-%40KnoBuddy-blue?style=for-the-badge&logo=github&logoColor=green&label=Follow&link=https%3A%2F%2Fgithub.com%2FKnoBuddy)](https://github.com/KnoBuddy)
 
