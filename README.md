@@ -19,7 +19,7 @@ Head over to music.youtube.com on your computer and make sure you are signed int
 
 - If you have an extremely large playlist, you will need to use the scrollbar several times to get it to load as many songs as possible into the webpage. I've noticed a limit of about ~1000 tracks and if your playlist is larger you will have to run this script multiple times and follow the steps over and over until all songs are liked.
 - Press `ctrl` + `shift` + `j`. This opens the Developer Console.
-- Copy the script in this gist (That's in `music.youtube.com-playlist-liker.js`) at the bottom of this page. Or if you prefer a possibly safer and longer method you can try the `music.youtube.com-playlist-liker-random-intervals.js` script as well.
+- Copy the script you'd prefer to use. Choose `music.youtube.com-playlist-liker.js`, or if you prefer a possibly safer and longer method you can try the `music.youtube.com-playlist-liker-random-intervals.js` script as well.
 - I suggest clicking the raw button at the top right, using CTRL + A to select all then copy.
 - Paste the code into the Developer Console you just opened on the music.youtube.com Tab, hit enter.
 - Great, now wait until the script runs. 
