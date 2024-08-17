@@ -4,7 +4,7 @@ This script likes all the songs in a Youtube Music Playlist at once, this allows
 
 # Use at own risk!
 - There has been at least one user that complained that their account was suspended because "YouTube thought I was doing "Fake Engagement" by automating likes."
-- I have successfully transferred over 700 song likes between accounts with this method, and have hundreds more to go. Will definitely update if I am suspended or have negative consequences.
+- I have successfully transferred well over 1,000 song likes between accounts with this method, and have hundreds more to go. Will definitely update if I am suspended or have negative consequences.
 - It may be advisable to vary the length of time between likes randomly between 10-100 seconds, but that would inscrease the script time extravagantly, so this feature has not been implemented at this time.
 
 # Instructions:
