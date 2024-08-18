@@ -9,11 +9,11 @@ This script likes all the songs in a Youtube Music Playlist at once, this allows
 
 # Instructions:
 
-If you navigate to the Liked playlist from the homepage of the Android app (I assume iOS has a similar functionality), you can long-press the liked playlist and select Save to playlist. Name the playlist and make sure Public is selected. (You have to create a channel for the public option to appear; it will prompt you if you don't already have one created).
+If you navigate to the Liked playlist from the homepage of the Android app (I assume iOS has a similar functionality), you can long-press the liked playlist and select Save to playlist. Name the playlist and make sure public or unlisted is selected. (You have to create a channel for the public or unlisted option to appear; it will prompt you if you don't already have one created).
 
 Head over to your Library and click the three dots icon next to the playlist you just created of your likes, and share the link/copy it, however you can, to get to a Chrome browser. (I used the Google QuickShare app on Windows, but this should work the same on iOS assuming the app allows for creating playlists from liked music). You could simply email your new Google account the link as well.
 
-Head over to music.youtube.com on your computer and make sure you are signed into the account you want to copy the playlist to. Enter the public playlist link you copied earlier, then click the three dots and save the playlist to your new Google account. (URL looks like: `https://music.youtube.com/playlist?list=...`)
+Head over to music.youtube.com on your computer and make sure you are signed into the account you want to copy the playlist to. Enter the public or unlisted playlist link you copied earlier, then click the three dots and save the playlist to your new Google account. (URL looks like: `https://music.youtube.com/playlist?list=...`)
 
 # How to use the script
 
